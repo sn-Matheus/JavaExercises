@@ -1,4 +1,4 @@
 
-# Processo Seletivo Target Sistemas
+# Java exercises
 
-*Desafio Target! :)*
+*5 exercises made in java ! :)*
